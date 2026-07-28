@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-I am Ambica, Data Analyst specialized in Data modelling, Data Analysis and Reporting, and data visualization
+I am Ambica, Data Analyst specialized in Data modelling, Data Analysis and Reporting, and Data visualization
 
 Checkout my projects ->  [All Projects](#Projects)
 
@@ -14,7 +14,7 @@ Tools
 - Databases: MySQL, PostgreSQL
 - Reporting: PowerBI,Excel
 
-- ## 🚀 Projects
+ ## 🚀 Projects
 
 This portfolio is designed to demonstrate skills in:
 - [SQL](#SQL)
