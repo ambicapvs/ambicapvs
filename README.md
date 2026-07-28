@@ -7,26 +7,21 @@ Checkout my projects ->  [All Projects](#Projects)
 
 - 🔭 I’m currently building my portfolio with challenging projects
 - 🌱 I’m currently learning cloud based analysis and data analaysis using python
+-  📫 How to reach me:  https://www.linkedin.com/in/ambicamokarala/
 
 Tools
 - Languages:SQL,Python
 - Databases: MySQL, PostgreSQL
 - Reporting: PowerBI,Excel
 
-
-
-- 📫 How to reach me:  https://www.linkedin.com/in/ambicamokarala/
-
-- ## Projects
+- ## 🚀 Projects
 
 This portfolio is designed to demonstrate skills in:
 - [SQL](#SQL)
 - [Power BI](#Power-BI)
 - [Excel](#Excel)
 - [Python](#Python)
-
-## 🚀 Projects
-
+## 
 # SQL
 This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
 
