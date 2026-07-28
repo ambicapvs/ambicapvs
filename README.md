@@ -9,9 +9,9 @@ Checkout my projects -> hehe
 - 🌱 I’m currently learning cloud based analysis and more data analaysis in python
 
 Tools
--Languages:SQL,Python
--Databases: MySQL, PostgreSQL
--Reporting: PowerBI,Excel
+- Languages:SQL,Python
+- Databases: MySQL, PostgreSQL
+- Reporting: PowerBI,Excel
 
 
 
