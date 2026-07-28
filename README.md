@@ -8,6 +8,7 @@ Checkout my projects ->  [All Projects](#Projects)
 - 🔭 I’m currently building my portfolio with challenging projects
 - 🌱 I’m currently learning cloud based analysis and data analaysis using python
 -  📫 How to reach me:  https://www.linkedin.com/in/ambicamokarala/
+-  My Resume- https://github.com/ambicapvs/About-Me/blob/main/Ambica_Mokarala_Resume.pdf
 
 Tools
 - Languages:SQL,Python
