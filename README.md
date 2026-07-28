@@ -3,7 +3,7 @@
 
 I am Ambica, Data Analyst specialized in Data modelling, Data Analysis and Reporting, and data visualization
 
-Checkout my projects ->
+Checkout my projects -> hehe
 
 - 🔭 I’m currentl
 - 🌱 I’m currently learning cloud based analysis and more data analaysis in python
