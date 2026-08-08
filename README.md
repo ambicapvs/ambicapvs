@@ -6,7 +6,7 @@ I am Ambica, Data Analyst specializing in data modeling, analysis, and visualiza
 Checkout my projects ->  [All Projects](#Projects)
 
 - 🔭 I’m currently building my portfolio with challenging projects
-- 🌱 I’m currently learning cloud based analysis and data analaysis using python
+- 🌱 Currently expanding my expertise through projects in cloud-based analytics and Python-driven data analysis
 -  📫 How to reach me:  https://www.linkedin.com/in/ambicamokarala/
 -  My Resume- https://github.com/ambicapvs/About-Me/blob/main/Ambica_Mokarala_Resume.pdf
 
