@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-I am Ambica, Data Analyst specialized in Data modelling, Data Analysis and Reporting, and Data visualization
+I am Ambica, Data Analyst specializing in data modeling, analysis, and visualization, turning complex data into actionable business insights.
 
 Checkout my projects ->  [All Projects](#Projects)
 
