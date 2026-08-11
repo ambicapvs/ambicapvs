@@ -39,7 +39,7 @@ This template is set up to showcase your best work. You can easily customize the
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
-|Hospital DB  https://github.com/ambicapvs/Hospital-Database-Management-System-SQL-Business-Queries-Insights | May 2023 | Python,  | Developed and implemented an end-to-end ETL pipeline for processinsg NYC Trip Record data |
+|Vaccine|(https://github.com/ambicapvs/Covid_Vaccination_Data_Visualization_using_Python_and_PowerBI) | May 2023 | Python,  | Developed and implemented an end-to-end ETL pipeline for processinsg NYC Trip Record data |
 | DA project https://github.com/ambicapvs/End-to-end-Data-Analysis-project | Mar 2023 |Python, PostgreSQL, Jupyter Notebook | Designed, created, and deployed a custom data model  Jupyter Notebook. |
 
 # Excel
