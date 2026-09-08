@@ -27,7 +27,7 @@ This portfolio is designed to demonstrate skills in:
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
-| Hospital DB  https://github.com/ambicapvs/Hospital-Database-Management-System-SQL-Business-Queries-Insights | May 2023 | Python,  | Developed and implemented an end-to-end ETL pipeline for processinsg NYC Trip Record data |
+| Hospital DB  https://github.com/ambicapvs/Hospital-Database-Management-System-SQL-Business-Queries-Insights | May 2023 | Python,  | Designed a relational database in MySQL to manage patient records, appointments, billing, and inventory. Used ER diagrams and key constraints to ensure data integrity, and wrote optimized SQL queries for efficient reporting and hospital administration. |
 | Sales Analysis project https://github.com/ambicapvs/End-to-end-Sales-Data-Analysis-project | Mar 2023 |Mysql, PowerBI | Designed, created, and deployed a custom data model  Jupyter Notebook. |
 
 
