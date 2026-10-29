@@ -47,14 +47,14 @@ This portfolio is designed to demonstrate skills in:
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
 | Hospital DB  https://github.com/ambicapvs/Hospital-Database-Management-System-SQL-Business-Queries-Insights | May 2023 | Python,  | Designed a relational database in MySQL to manage patient records, appointments, billing, and inventory. Used ER diagrams and key constraints to ensure data integrity, and wrote optimized SQL queries for efficient reporting and hospital administration. |
-| DA project https://github.com/ambicapvs/End-to-end-Data-Analysis-project | Mar 2023 |Python, PostgreSQL, Jupyter Notebook | Designed, created, and deployed a custom data model  Jupyter Notebook. |
+| DA project https://github.com/ambicapvs/End-to-end-Data-Analysis-project | Mar 2023 |Python, PostgreSQL, Jupyter Notebook | An end-to-end pizza sales analytics project that cleans raw order data in MySQL, answers key business questions with SQL, and delivers KPIs and trends through an interactive Power BI dashboard. |
 
 # Python
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
 |Vaccine distribution https://github.com/ambicapvs/Covid_Vaccination_Data_Visualization_using_Python_and_PowerBI | May 2023 | Python,  | Developed and implemented an end-to-end ETL pipeline for processing vaccine distribution across the country |
-|DA project https://github.com/ambicapvs/End-to-end-Data-Analysis-project | Mar 2023 |Python, PostgreSQL, Jupyter Notebook | Designed, created, and deployed a custom data model  Jupyter Notebook. |
+|DA project https://github.com/ambicapvs/End-to-end-Data-Analysis-project | Mar 2023 |Python, PostgreSQL, Jupyter Notebook | An end-to-end pizza sales analytics project that cleans raw order data in MySQL, answers key business questions with SQL, and delivers KPIs and trends through an interactive Power BI dashboard. |
 
 
 
