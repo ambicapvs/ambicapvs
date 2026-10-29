@@ -15,7 +15,7 @@ Tools
 - Databases: MySQL, PostgreSQL
 - Reporting: PowerBI,Excel
 
- ## 🚀 Projects
+ # 🚀 Projects
 
 This portfolio is designed to demonstrate skills in:
 - [SQL](#SQL)
