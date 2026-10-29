@@ -3,7 +3,7 @@
 
 I am Ambica, Data Analyst specializing in data modeling, analysis, and visualization, turning complex data into actionable business insights.
 
-Checkout my projects ->  [All Projects](#Projects)
+Checkout my projects ->  [All Projects](#🚀Projects)
 
 - 🔭 I’m currently building my portfolio with challenging projects
 - 🌱 Currently expanding my expertise through projects in cloud-based analytics and Python-driven data analysis
