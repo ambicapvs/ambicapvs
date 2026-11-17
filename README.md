@@ -38,7 +38,7 @@ This portfolio is designed to demonstrate skills in:
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
-| Customer Behavior Analysis (https://github.com/ambicapvs/Customer_Shopping_Behavior_Analysis)| May 2025 | Python,SQL,PowerBI  | An end-to-end data analytics projectthat explores customer purchase behavior using Python for exploratory dataanalysis, MySQL for querying, and Power BI for interactive dashboards. |
+| Customer Behavior Analysis (https://github.com/ambicapvs/Customer_Shopping_Behavior_Analysis)| May 2025 | Python,SQL,PowerBI,Jupyter Notebook  | An end-to-end data analytics projectthat explores customer purchase behavior using Python for exploratory dataanalysis, MySQL for querying, and Power BI for interactive dashboards. |
 | Revenue Analytics Dashboards https://github.com/ambicapvs/Sales-and-Profitability-Dashboard | Mar 2023 |Python, PostgreSQL, Jupyter Notebook | Designed, created, and deployed a custom data model  Jupyter Notebook. |
 
 # Excel
