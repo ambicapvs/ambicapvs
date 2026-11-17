@@ -38,7 +38,7 @@ This portfolio is designed to demonstrate skills in:
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
-|[Vaccine distribution](https://github.com/ambicapvs/Covid_Vaccination_Data_Visualization_using_Python_and_PowerBI)| May 2023 | Python,  | Developed and implemented an end-to-end ETL pipeline for processing vaccine distribution across the country |
+| Customer Behavior Analysis (https://github.com/ambicapvs/Customer_Shopping_Behavior_Analysis)| May 2023 | Python,  | Developed and implemented an end-to-end ETL pipeline for processing vaccine distribution across the country |
 | Revenue Analytics Dashboards https://github.com/ambicapvs/Sales-and-Profitability-Dashboard | Mar 2023 |Python, PostgreSQL, Jupyter Notebook | Designed, created, and deployed a custom data model  Jupyter Notebook. |
 
 # Excel
